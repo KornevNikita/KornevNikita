@@ -1,6 +1,4 @@
-Why do programmers prefer dark mode?
-
-Because light attracts bugs 🐛
+![pic](picture.jpg)
 
 <!--
 **KornevNikita/KornevNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
